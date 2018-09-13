@@ -80,7 +80,7 @@ The app is based upon creating lists that pertain to different categories, so th
   * React-Native
   * React-Navigation
   * Redux
-  * Thunk for Redux
+  * Redux Thunk
   * Async / Await ES6
   * Google Places API
   * Google Distance Matrix API
