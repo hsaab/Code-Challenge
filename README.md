@@ -9,11 +9,11 @@ TAPP Code Challenge for Software Engineer Candidates
 
 ## Candidate Information (Fill out with your info)
 
-Name: \<your name>
+Name: Hassan Saab
 
-Email: \<your email>
+Email: hsaab310@gmail.com
 
-Resume: \<link to your resume>
+Resume: https://drive.google.com/open?id=1vVo42MTQsSP3XsZKsJPpIyMOTRL3WXIU
 
 ## Intro
 
@@ -29,7 +29,7 @@ The candidate will:
 * Submit to code-challenge@tapptravel.co with in time limit
   * subject line of your name, ‘submission’ and date. For example, "Tommy Tapp Submission 08-22-2018"
   * body with link to your repo and roughly how long it took you to complete the challenge.
-  
+
 Good luck! Can’t wait to see your awesome code! If you have any questions, ask us at code-challenge@tapptravel.co
 
 ## Time Limit
@@ -57,7 +57,7 @@ The resulting app should have UI that closely resembles the provided design mock
   * Use Google Place Details to retrieve all relevant data
   * Use Google Place Photo to show a photo from Details
   * Correct ‘Bookmark’ button depending on if place is bookmarked
-  
+
 __Optional__
 
 * Redux integration
