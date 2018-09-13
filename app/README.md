@@ -64,7 +64,7 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
     <img width=150 src="/assets/screenshots/View1.png"/>
-    <img width=150 style="margin-left: 8;" src="/assets/screenshots/View2.png"/>
+    <img width=150 style="margin-left: 8;" source="/assets/screenshots/View2.png"/>
     <img width=150 style="margin-left: 8;" src="/assets/screenshots/View3.png"/>
     <img width=150 style="margin-left: 8;" src="/assets/screenshots/View4.png"/>
   </div>
