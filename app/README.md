@@ -30,7 +30,7 @@ The app is based upon creating lists that pertain to different categories, so th
  * Let's type a list name into the input bar
  * Upon creating a list, we should navigate back to the "Lists" screen where our new list is made!
 
- [Image](/assets/screenshots/List1.png)
+ ![Image]("/assets/screenshots/List1.png")
 
   <div style="display: flex; flex-direction: row;">
    <img width=150 src="/assets/screenshots/List1.png"/>
