@@ -12,7 +12,7 @@ App can be viewed by using [Expo CLI](https://docs.expo.io/versions/latest/guide
 
 4) `git clone` this repository
 5) `npm install`
-6) Make sure `npm react-native-dotenv --save` is installed (this is handling our config variables). Follow instructions [here](https://www.npmjs.com/package/react-native-dotenv) and set your config variable to `gPlaces_API_KEY`
+6) Make sure `npm react-native-dotenv --save` is installed (this is handling our config variables). Follow instructions [here](https://www.npmjs.com/package/react-native-dotenv) and set a config variable of `gPlaces_API_KEY` equal to your API key
 7) Login to your expo account by typing in `exp login` in the terminal
 8) Navigate to this project directory and type `exp start` in the terminal
 9) Then open the iOS Simulator and navigate to the Expo app (if you don't have it you can download it)
@@ -86,3 +86,4 @@ The app is based upon creating lists that pertain to different categories, so th
   * Google Distance Matrix API
   * React-Native-Maps
   * React-Native-Responsive-Screen
+  * React-Native-Elements
