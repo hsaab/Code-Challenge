@@ -68,14 +68,6 @@ The app is based upon creating lists that pertain to different categories, so th
     <img width=185 src="./assets/screenshots/View4.png"/>
   </div>
 
-## v2 Features
-  * Delete lists and places
-  * Persist lists and places in Firebase database
-  * Add custom places (friend's houses, etc.)
-  * Add places uncategorized by list
-  * "Go Here" button integrating with Google Maps / Uber for quick, preset trips
-  * More modular styling implementation
-
 ## Key Technologies Used
   * React-Native
   * React-Navigation
@@ -87,3 +79,11 @@ The app is based upon creating lists that pertain to different categories, so th
   * React-Native-Maps
   * React-Native-Responsive-Screen
   * React-Native-Elements
+
+## v2 Features
+  * Delete lists and places
+  * Persist lists and places in Firebase database
+  * Add custom places (friend's houses, etc.)
+  * Add places uncategorized by list
+  * "Go Here" button integrating with Google Maps / Uber for quick, preset trips
+  * More modular styling implementation
