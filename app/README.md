@@ -33,7 +33,7 @@ The app is based upon creating lists that pertain to different categories, so th
  ![Image]("/assets/screenshots/List1.png")
 
   <div style="display: flex; flex-direction: row;">
-   <img width=150 src="/assets/screenshots/List1.png"/>
+   <img width=150 src="./assets/screenshots/List1.png"/>
    <img width=150 style="margin-left: 8;" src="/assets/screenshots/List2.png"/>
    <img width=150 style="margin-left: 8;" src="/assets/screenshots/List3.png"/>
   </div>
