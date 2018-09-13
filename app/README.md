@@ -32,8 +32,8 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
    <img width=185 src="./assets/screenshots/List1.png"/>
-   <img width=185 style="margin-left: 8;" src="./assets/screenshots/List2.png"/>
-   <img width=185 style="margin-left: 8;" src="./assets/screenshots/List3.png"/>
+   <img width=185 src="./assets/screenshots/List2.png"/>
+   <img width=185 src="./assets/screenshots/List3.png"/>
   </div>
 
 ### Step 2: Search New Places
@@ -43,8 +43,8 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
     <img width=185 src="./assets/screenshots/Place1.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/Place2.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/Place3.png"/>
+    <img width=185 src="./assets/screenshots/Place2.png"/>
+    <img width=185 src="./assets/screenshots/Place3.png"/>
   </div>
 
 ### Step 3: Add Place to List
@@ -53,7 +53,7 @@ The app is based upon creating lists that pertain to different categories, so th
   * Upon clicking on a list, we are navigated back to the "Lists" screen, were now we can see the list we just clicked on now has an additional place
 
   <div style="display: flex; flex-direction: row;">
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/Place4.png"/>
+    <img width=185 src="./assets/screenshots/Place4.png"/>
   </div>
 
 ### Step 4: View Saved Place Profiles
@@ -63,9 +63,9 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
     <img width=185 src="./assets/screenshots/View1.png"/>
-    <img width=185 style="margin-left: 1000" src="./assets/screenshots/View2.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/View3.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/View4.png"/>
+    <img width=185 src="./assets/screenshots/View2.png"/>
+    <img width=185 src="./assets/screenshots/View3.png"/>
+    <img width=185 src="./assets/screenshots/View4.png"/>
   </div>
 
 ## v2 Features
