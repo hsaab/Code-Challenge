@@ -54,6 +54,7 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
     <img width=185 src="./assets/screenshots/Place4.png"/>
+    <img width=185 src="./assets/screenshots/View1.png"/>
   </div>
 
 ### Step 4: View Saved Place Profiles
@@ -62,7 +63,6 @@ The app is based upon creating lists that pertain to different categories, so th
   * OR we can navigate back to the "Places" tab and view all of our places uncategorized and sorted alphabetically
 
   <div style="display: flex; flex-direction: row;">
-    <img width=185 src="./assets/screenshots/View1.png"/>
     <img width=185 src="./assets/screenshots/View2.png"/>
     <img width=185 src="./assets/screenshots/View3.png"/>
     <img width=185 src="./assets/screenshots/View4.png"/>
