@@ -60,6 +60,7 @@ The app is based upon creating lists that pertain to different categories, so th
   * Now we can view the saved place profiles in a variety of ways
   * We can click on a list in our "Lists" screen to see all of our places saved by list. If we want to view the place profile again, we can just click on the mini-profile
   * OR we can navigate back to the "Places" tab and view all of our places uncategorized and sorted alphabetically
+<img width=150 src="/assets/screenshots/View1.png"/>
 
   <div style="display: flex; flex-direction: row;">
     <img width=150 src="/assets/screenshots/View1.png"/>
