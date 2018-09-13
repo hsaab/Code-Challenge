@@ -86,7 +86,3 @@ The app is based upon creating lists that pertain to different categories, so th
   * Google Distance Matrix API
   * React-Native-Maps
   * React-Native-Responsive-Screen
-
-* Submit to code-challenge@tapptravel.co with in time limit
-  * subject line of your name, ‘submission’ and date. For example, "Tommy Tapp Submission 08-22-2018"
-  * body with link to your repo and roughly how long it took you to complete the challenge.
