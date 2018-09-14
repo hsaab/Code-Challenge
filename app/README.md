@@ -12,7 +12,7 @@ App can be viewed by using [Expo CLI](https://docs.expo.io/versions/latest/guide
 
 4) `git clone` this repository
 5) `npm install`
-6) Make sure `npm react-native-dotenv --save` is installed (this is handling our config variables). Follow instructions [here](https://www.npmjs.com/package/react-native-dotenv) and set your config variable to `gPlaces_API_KEY`
+6) Make sure `npm react-native-dotenv --save` is installed (this is handling our config variables). Follow instructions [here](https://www.npmjs.com/package/react-native-dotenv) and set a config variable of `gPlaces_API_KEY` equal to your API key
 7) Login to your expo account by typing in `exp login` in the terminal
 8) Navigate to this project directory and type `exp start` in the terminal
 9) Then open the iOS Simulator and navigate to the Expo app (if you don't have it you can download it)
@@ -32,8 +32,8 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
    <img width=185 src="./assets/screenshots/List1.png"/>
-   <img width=185 style="margin-left: 8;" src="./assets/screenshots/List2.png"/>
-   <img width=185 style="margin-left: 8;" src="./assets/screenshots/List3.png"/>
+   <img width=185 src="./assets/screenshots/List2.png"/>
+   <img width=185 src="./assets/screenshots/List3.png"/>
   </div>
 
 ### Step 2: Search New Places
@@ -43,8 +43,8 @@ The app is based upon creating lists that pertain to different categories, so th
 
   <div style="display: flex; flex-direction: row;">
     <img width=185 src="./assets/screenshots/Place1.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/Place2.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/Place3.png"/>
+    <img width=185 src="./assets/screenshots/Place2.png"/>
+    <img width=185 src="./assets/screenshots/Place3.png"/>
   </div>
 
 ### Step 3: Add Place to List
@@ -53,7 +53,8 @@ The app is based upon creating lists that pertain to different categories, so th
   * Upon clicking on a list, we are navigated back to the "Lists" screen, were now we can see the list we just clicked on now has an additional place
 
   <div style="display: flex; flex-direction: row;">
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/Place4.png"/>
+    <img width=185 src="./assets/screenshots/Place4.png"/>
+    <img width=185 src="./assets/screenshots/View1.png"/>
   </div>
 
 ### Step 4: View Saved Place Profiles
@@ -62,11 +63,22 @@ The app is based upon creating lists that pertain to different categories, so th
   * OR we can navigate back to the "Places" tab and view all of our places uncategorized and sorted alphabetically
 
   <div style="display: flex; flex-direction: row;">
-    <img width=185 src="./assets/screenshots/View1.png"/>
-    <img width=185 style="margin-left: 1000" src="./assets/screenshots/View2.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/View3.png"/>
-    <img width=185 style="margin-left: 8;" src="./assets/screenshots/View4.png"/>
+    <img width=185 src="./assets/screenshots/View2.png"/>
+    <img width=185 src="./assets/screenshots/View3.png"/>
+    <img width=185 src="./assets/screenshots/View4.png"/>
   </div>
+
+## Key Technologies Used
+  * React-Native
+  * React-Navigation
+  * Redux
+  * Redux Thunk
+  * Async / Await ES6
+  * Google Places API
+  * Google Distance Matrix API
+  * React-Native-Maps
+  * React-Native-Responsive-Screen
+  * React-Native-Elements
 
 ## v2 Features
   * Delete lists and places
@@ -75,18 +87,3 @@ The app is based upon creating lists that pertain to different categories, so th
   * Add places uncategorized by list
   * "Go Here" button integrating with Google Maps / Uber for quick, preset trips
   * More modular styling implementation
-
-## Key Technologies Used
-  * React-Native
-  * React-Navigation
-  * Redux
-  * Thunk for Redux
-  * Async / Await ES6
-  * Google Places API
-  * Google Distance Matrix API
-  * React-Native-Maps
-  * React-Native-Responsive-Screen
-
-* Submit to code-challenge@tapptravel.co with in time limit
-  * subject line of your name, ‘submission’ and date. For example, "Tommy Tapp Submission 08-22-2018"
-  * body with link to your repo and roughly how long it took you to complete the challenge.
